@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Ntando Mazibuko
 
 Welcome to my GitHub profile!  
